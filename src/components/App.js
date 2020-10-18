@@ -25,7 +25,7 @@ function App() {
   return (
     <div>
     <div>
-      <h1>Welcome to Codester🔥Platform for Short Syntax Coding
+      <h1>Welcome to Codester<span role="img">🔥</span>Platform for Short Syntax Coding
         </h1>
     </div>
     <div className="pane top-pane">
@@ -55,7 +55,7 @@ function App() {
       height="100%"
       />
     </div>
-    
+
     <footer>
     <div className="god">
       <p><a href="https://www.linkedin.com/in/mohit-srivastava-b0360b195">LinkedIn</a></p>
