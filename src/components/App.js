@@ -25,8 +25,8 @@ function App() {
   return (
     <div>
     <div>
-      <h1>Welcome to Codester Lite! Platform for Short Syntax Coding
-        </h1>
+      <h1>Welcome to Codester Lite!</h1>
+      <h1>Platform for Short Syntax Coding</h1>
     </div>
     <div className="pane top-pane">
       <Editor language="xml" 
